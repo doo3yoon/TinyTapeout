@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It allows output displays when the switch is clicked, or clock signal toggles.
+This was enabled by using flip-flops.
+And it also can be reset using the reset button.
 
 ## How to test
 
-Explain how to use your project
+Set input toggle switches as you want.
+Start test, and check its output changes by clicking the switch button.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Flip-flops are added to enable display at each switch.
